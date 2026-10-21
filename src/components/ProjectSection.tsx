@@ -16,7 +16,7 @@ function ProjectSection() {
                 implementations wherever possible to ensure stable performance and avoid framework dependencies, though I did incorporate select third-party libraries to streamline the development process.
               </p>
               <p className="my-2 font-semibold text-sm">Golang - MySQL - Microservices - Clean Architecture - gRPC - net/http - database/sql - go-sql-driver - testify </p>
-              <a href="" className="block py-1 px-3 bg-gray-300 text-center mt-5">
+              <a href="https://github.com/jnjunaedi/mini-bank" className="block py-1 px-3 bg-gray-300 text-center mt-5">
                 Visit
               </a>
             </div>
@@ -34,7 +34,7 @@ function ProjectSection() {
                 separate responsibilities with each layer handling its own specific tasks thereby resulting in code that is easy to test, facilitates technology migration, and improves readability.
               </p>
               <p className="my-2 font-semibold text-sm">TypeScript - React - Node.js - Express.js - MongoDB - Mongoose ODM - Bootstrap - Clean Architecture </p>
-              <a href="" className="block py-1 px-3 bg-gray-300 text-center mt-5">
+              <a href="https://github.com/jnjunaedi/e-mading" className="block py-1 px-3 bg-gray-300 text-center mt-5">
                 Visit
               </a>
             </div>

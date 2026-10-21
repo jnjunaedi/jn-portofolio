@@ -21,8 +21,8 @@ function Navbar() {
           </a>
         </li>
         <li className="cursor-pointer">
-          <a href="#experiences" className="sm:underline">
-            Experiences
+          <a href="#experience" className="sm:underline">
+            Experience
           </a>
         </li>
         <li className="cursor-pointer">

@@ -1,6 +1,6 @@
 function ExperienceSection() {
   return (
-    <section id="experiences" className="mt-28 mx-3">
+    <section id="experience" className="mt-28 mx-3">
       <h1 className="text-lg font-semibold">My Experience</h1>
       <div className="mt-5">
         <h1 className="font-semibold">- UPTD Pertamanan dan Pemakaman Cianjur</h1>
